@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **school projects**
 
-- 🌱 I’m currently learning **c++, qt, qml**
+- 🌱 I’m currently learning **c++, embedded, qt, qml**
 
 - 👯 I’m looking for **c++ internship in Kraków**
 
