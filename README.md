@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Marcin</h1>
-<h3 align="center">3rd year student at ANS in Tarnów</h3>
+<h3 align="center">3rd year student at Akademia Tarnowska</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h1kosso&label=Profile%20views&color=0e75b6&style=flat" alt="h1kosso" /> </p>
 
 - 🔭 I’m currently working on **school projects**
 
-- 🌱 I’m currently learning **c++, embedded, qt, qml**
+- 🌱 I’m currently learning **c++, embedded, qt, qml, IoT**
 
 - 👯 I’m looking for **c++ internship in Kraków**
 
 - 📫 How to reach me **onikmarcin@wp.pl**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LvifS_M9d2I2DqVaiMzUqPvnUZJ-EqN6/view?usp=sharing](https://drive.google.com/file/d/1LvifS_M9d2I2DqVaiMzUqPvnUZJ-EqN6/view?usp=sharing)
 
 - ⚡ Fun fact **I love dota 2**
 
