@@ -3,14 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h1kosso&label=Profile%20views&color=0e75b6&style=flat" alt="h1kosso" /> </p>
 
-- 🔭 I’m currently working on **school projects**
-
 - 🌱 I’m currently learning **c++, embedded, qt, qml, IoT**
-
-- 👯 I’m looking for **c++ internship in Kraków**
-
-- 📫 How to reach me **onikmarcin@wp.pl**
-
 - ⚡ Fun fact **I love dota 2**
 
 <h3 align="left">Connect with me:</h3>
