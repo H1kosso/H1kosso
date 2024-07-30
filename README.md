@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marcin</h1>
-<h3 align="center">3rd year student at Akademia Tarnowska</h3>
+<h3 align="center">4th year student at Akademia Tarnowska</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h1kosso&label=Profile%20views&color=0e75b6&style=flat" alt="h1kosso" /> </p>
 
-- 🌱 I’m currently learning **c++, embedded, qt, qml, IoT**
+- 🌱 I’m currently learning **c++, qt, qml, IoT**
 - ⚡ Fun fact **I love dota 2**
 
 <h3 align="left">Connect with me:</h3>
